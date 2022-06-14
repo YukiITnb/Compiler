@@ -1,0 +1,4 @@
+Program Example1; (* Example 1 *)
+Begin
+    (n,m) := (n-10,m+1);
+End. (* Example 1 *)
